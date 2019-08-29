@@ -1,2 +1,2 @@
 # CsvToClass
-The purpose of this project is to read a CSV or xlsx file and create a corresponding dictionary of objects. 
+The purpose of this project is to read a CSV and create a class file.
